@@ -1,0 +1,61 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "firstName": "Hrithik",
+            "lastName": "Gavankar",
+            "email": "hrithikgavankar8582@gmail.com",
+            "age": 22,
+            "companyId": "1"
+        },
+        {
+            "id": 2,
+            "firstName": "Hitesh",
+            "lastName": "Chaudhary",
+            "email": "hitesh8582@gmail.com",
+            "age": 32,
+            "companyId": "2"
+        },
+        {
+            "id": 3,
+            "firstName": "Ram",
+            "lastName": "Singh",
+            "email": "ram8582@gmail.com",
+            "age": 28,
+            "companyId": "3"
+        },
+        {
+            "id": 4,
+            "firstName": "Sam",
+            "lastName": "Curran",
+            "email": "sam22@gmail.com",
+            "age": 42,
+            "companyId": "4"
+        },
+        {
+            "id": 5,
+            "firstName": "Kalpesh",
+            "lastName": "Swant",
+            "email": "kp82@gmail.com",
+            "age": 52,
+            "companyId": "5"
+        }
+    ],
+    "companies": [
+        {
+            "id": 1,
+            "name": "Apple",
+            "description": "Phone company"
+        },
+        {
+            "id": 2,
+            "name": "Contenstack",
+            "description": "Headless CMS"
+        },
+        {
+            "id": 3,
+            "name": "TCS",
+            "description": "Service based"
+        }
+    ]
+}
